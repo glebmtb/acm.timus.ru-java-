@@ -1,3 +1,4 @@
+*.class
 
 #ignore target dir
 target*/
